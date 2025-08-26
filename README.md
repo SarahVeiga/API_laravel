@@ -1,5 +1,5 @@
 
-### ✅ **Passo a Passo — Laravel Maps App (OpenStreetMap + Leaflet)**
+### ✅ **Passo a Passo: Laravel Maps App**
 
 ---
 
