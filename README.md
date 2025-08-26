@@ -5,11 +5,9 @@
 
 #### **1. Pré-requisitos**
 
-* XAMPP ou ambiente com MySQL
+* MySQL
 * PHP 8.2+
 * Composer
-* Node.js + npm (opcional)
-* MySQL Workbench ou phpMyAdmin
 
 ---
 
